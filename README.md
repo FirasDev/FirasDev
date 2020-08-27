@@ -7,7 +7,7 @@
 - Experienced with Native Android developpement <img width="22px" src="https://emojis.slackmojis.com/emojis/images/1493026598/2124/android.png?1493026598" />
 - Passionate Flutter developper looking for internships in Flutter  <img width="30px" src="https://meterpreter.org/wp-content/uploads/2018/09/flutter.png" />
 - Experience with NodeJS and Express to create Back-ends for applications  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
-- Hobbies include Game Developpement in Unreal Enging and Unity with a game already published on the Google PlayStore  <img width="22px" src="https://cdn.iconscout.com/icon/free/png-256/google-play-store-2038773-1721660.png" />
+- Hobbies include Game Developpement in Unreal Engine and Unity with a game already published on the Google PlayStore  <img width="22px" src="https://cdn.iconscout.com/icon/free/png-256/google-play-store-2038773-1721660.png" />
 
 ### Connect with me:
 
