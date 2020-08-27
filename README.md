@@ -1,8 +1,8 @@
 ### Hello, I'm Firas Ben Mbarek a Software Engineering Senior Student - [website] 👋
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.firasbenmbarek.me/)
 
-## I'm an aspiring Tunisian 🇹🇳 developer looking for the next challenge 
-- I'm currently doing my last semester in Germany 🇩🇪
+## I'm an aspiring Tunisian <img width="22px" src="https://images.emojiterra.com/twitter/512px/1f1f9-1f1f3.png"> developer looking for the next challenge 
+- I'm currently doing my last semester in Germany <img width="22px" src="https://images.emojiterra.com/twitter/v13.0/512px/1f1e9-1f1ea.png">
 - I'm open for End of Year internships (6 months) ✈️
 - Experienced with Native Android developpement <img width="22px" src="https://emojis.slackmojis.com/emojis/images/1493026598/2124/android.png?1493026598" />
 - Passionate Flutter developper looking for internships in Flutter  <img width="30px" src="https://meterpreter.org/wp-content/uploads/2018/09/flutter.png" />
