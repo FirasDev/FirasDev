@@ -4,10 +4,10 @@
 ## I'm an aspiring Tunisian 🇹🇳 developer looking for the next challenge 
 - I'm currently doing my last semester in Germany 🇩🇪
 - I'm open for End of Year internships (6 months) ✈️
-- Experienced with Native Android developpement ![android not found](https://emojis.slackmojis.com/emojis/images/1493026598/2124/android.png?1493026598 =25x25)
-- Passionate Flutter developper looking for internships in Flutter ![flutter not found](https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/oqi2yrjph98suztrunye =25x25)
-- Experience with NodeJS and Express to create Back-ends for applications ![android not found](https://cdn.iconscout.com/icon/free/png-256/nodejs-226032.png =25x25)
-- Hobbies include Game Developpement in Unreal Enging and Unity with a game already published on the Google PlayStore ![android not found](https://cdn.iconscout.com/icon/free/png-256/google-play-store-2038773-1721660.png =25x25)
+- Experienced with Native Android developpement <img width="22px" src="https://emojis.slackmojis.com/emojis/images/1493026598/2124/android.png?1493026598" />
+- Passionate Flutter developper looking for internships in Flutter  <img width="22px" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/oqi2yrjph98suztrunye" />
+- Experience with NodeJS and Express to create Back-ends for applications  <img width="22px" src="https://cdn.iconscout.com/icon/free/png-256/nodejs-226032.png" />
+- Hobbies include Game Developpement in Unreal Enging and Unity with a game already published on the Google PlayStore  <img width="22px" src="https://cdn.iconscout.com/icon/free/png-256/google-play-store-2038773-1721660.png" />
 
 ### Connect with me:
 
