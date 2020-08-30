@@ -44,9 +44,6 @@
 
 <br/>
 
-<br/>
-
-  <img align="center" src="https://github-readme-stats-eosin-three.vercel.app/api/top-langs/?username=FirasDev&layout=compact" />
 
 ---
 
