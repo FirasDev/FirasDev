@@ -36,14 +36,17 @@
 <img align="left" alt="Git" width="35px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />
 <img align="left" alt="Git" width="35px" src="https://dart.dev/assets/shared/dart-logo-for-shares.png?2" />
 
-<br />
+<br/>
 
-<details>
-  <summary>:zap: Github Stats</summary>
+<br/>
 
   <img align="left" alt="FirasDev's Github Stats" src="https://github-readme-stats-eosin-three.vercel.app/api?username=FirasDev&show_icons=true&hide_border=true" />
 
-</details>
+<br/>
+
+<br/>
+
+  <img align="center" src="https://github-readme-stats-eosin-three.vercel.app/api/top-langs/?username=FirasDev&layout=compact" />
 
 ---
 
