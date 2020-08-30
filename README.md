@@ -38,6 +38,13 @@
 
 <br />
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="FirasDev's Github Stats" src="https://github-readme-stats-eosin-three.vercel.app/api?username=FirasDev&show_icons=true&hide_border=true" />
+
+</details>
+
 ---
 
 [website]: https://www.firasbenmbarek.me/
