@@ -47,7 +47,7 @@
 
 ---
 
-[website]: https://www.firasbenmbarek.me/
+[website]: https://firasdev.github.io/
 [youtube]: https://www.youtube.com/channel/UCf923BqySgbg4Birsubmwxg/
 [instagram]: https://www.instagram.com/firas_megu/
 [linkedin]: https://www.linkedin.com/in/bmfirask/
