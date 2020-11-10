@@ -1,5 +1,5 @@
 ### Hello, I'm Firas Ben Mbarek a Software Engineering Senior Student - [website] 👋
-[![Website](https://img.shields.io/website?label=firasbenmbarek.me&style=for-the-badge&url=https%3A%2F%2Ffirasbenmbarek.me)](https://www.firasbenmbarek.me/)
+[![Website](https://img.shields.io/website?label=firasdev.github.io&style=for-the-badge&url=https%3A%2F%2Ffirasbenmbarek.me)](https://firasdev.github.io/)
 
 ## I'm an aspiring Tunisian <img width="22px" src="https://images.emojiterra.com/twitter/512px/1f1f9-1f1f3.png"> developer looking for the next challenge 
 - I'm currently doing my last semester in Germany <img width="22px" src="https://images.emojiterra.com/twitter/v13.0/512px/1f1e9-1f1ea.png">
