@@ -2,8 +2,8 @@
 [![Website](https://img.shields.io/website?label=firasdev.github.io&style=for-the-badge&url=https%3A%2F%2Ffirasdev.github.io%2F)](https://firasdev.github.io/)
 
 ## I'm an aspiring Tunisian <img width="22px" src="https://images.emojiterra.com/twitter/512px/1f1f9-1f1f3.png"> developer looking for the next challenge 
-- I'm currently doing my last semester in Germany <img width="22px" src="https://images.emojiterra.com/twitter/v13.0/512px/1f1e9-1f1ea.png">
-- I'm open for End of Year internships (6 months) ✈️
+- I'm currently doing an internship in Germany <img width="22px" src="https://images.emojiterra.com/twitter/v13.0/512px/1f1e9-1f1ea.png">
+- Open to relocate anywhere in Germany ✈️
 - Experienced with Native Android developpement <img width="22px" src="https://emojis.slackmojis.com/emojis/images/1493026598/2124/android.png?1493026598" />
 - Passionate Flutter developper looking for internships in Flutter  <img alt="flutter" width="35px" src="https://meterpreter.org/wp-content/uploads/2018/09/flutter.png" />
 - Experience with NodeJS and Express to create Back-ends for applications  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
