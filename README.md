@@ -7,5 +7,5 @@
 - Passionate Flutter developper  <img alt="flutter" width="35px" src="https://meterpreter.org/wp-content/uploads/2018/09/flutter.png" />
 - Hobbies include Game Developpement in Unreal Engine and Unity
 
-### Connect with me: <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
+### [Connect with me: <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />](https://www.linkedin.com/in/bmfirask/)
 
