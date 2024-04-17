@@ -1,5 +1,4 @@
-### Hello, I'm Firas, a Software Engineer - [website] 👋
-[![Website](https://img.shields.io/website?label=firasdev.github.io&style=for-the-badge&url=https%3A%2F%2Ffirasdev.github.io%2F)](https://firasdev.github.io/)
+### Hello, I'm Firas, a Software Engineer 👋
 
 ## I'm a developer looking for the next challenge 
 - I'm currently working in Germany <img width="22px" src="https://images.emojiterra.com/twitter/v13.0/512px/1f1e9-1f1ea.png">
